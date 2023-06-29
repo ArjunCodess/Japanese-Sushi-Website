@@ -1,16 +1,24 @@
-# SushiExpress Website
-Welcome to the SushiExpress website! We are thrilled to bring you the finest sushi and Japanese culinary delights. Whether you're a sushi aficionado or new to the world of Japanese cuisine, our website is your gateway to an unforgettable dining experience.
+![image](https://github.com/ArjunCodess/Japanese-Sushi-Website/assets/137415649/c4edcd2a-6063-46be-8293-17c9dea4d1c0)
+Click [this](https://sushiexpress.vercel.app/) to view the actual website
 
-## About Us
-At SushiExpress, we are passionate about creating a harmonious blend of traditional Japanese flavours with a modern twist. Our skilled sushi chefs meticulously craft each dish, using the freshest ingredients to ensure exceptional taste and quality. From classic nigiri and sashimi to creative sushi rolls, our menu caters to a wide range of preferences, making it a perfect choice for any sushi lover.
+## SushiExpress
+Welcome to the SushiExpress demo website! This website has been created as a design project by Arjun Vijay Prakash to showcase the potential of web development using HTML, CSS, and JavaScript.
 
-## Ordering Made Easy
-With our user-friendly website, ordering your favourite sushi has never been easier. Simply browse our menu, select your desired items, customize your order, and proceed to checkout. We offer convenient delivery options to bring the sushi straight to your doorstep, ensuring a hassle-free experience.
+## About SushiExpress
+SushiExpress is a virtual sushi-selling website, aiming to provide users with a simulated experience of ordering and exploring a variety of delectable sushi options. Please note that this website is for demonstration purposes only and does not facilitate actual transactions or food delivery.
 
-## Unforgettable Dining Experience
-We believe that exceptional food should be complemented by an exceptional experience. Our website aims to provide a visually captivating and intuitive interface, allowing you to explore our offerings and learn about each dish's unique ingredients and techniques. Join us on a journey of culinary discovery, and let our sushi transport you to the vibrant streets of Japan.
+## Technologies Used
+The website has been built using the following technologies:
 
-## Contact Us
-We value your feedback and are here to assist you. If you have any questions, comments, or concerns, please don't hesitate to contact our dedicated customer support team. You can find our contact information on the website.
+**HTML**: The structure and layout of the web pages are defined using HTML (Hypertext Markup Language).
 
-> *Indulge in the artistry of sushi and embark on a gastronomic adventure with SushiExpress. Visit our website today and experience the best of Japanese cuisine in every bite.*
+**CSS**: The visual styling, including colours, fonts, and layouts, is implemented using CSS (Cascading Style Sheets).
+
+**JavaScript**: Dynamic functionalities, interactivity, and enhanced user experience are achieved through JavaScript.
+
+Please note that no real orders will be processed, and no personal information is collected or stored. This website is solely a showcase of design and development skills.
+
+## Contributions and Feedback
+As a demo website, SushiExpress does not currently accept external contributions. However, feedback and suggestions are always appreciated to help enhance the overall user experience and improve the design aspects.
+
+## Note: This website and its content are purely fictional and intended for demonstration purposes only. Any resemblance to actual sushi-selling websites or establishments is purely coincidental.
